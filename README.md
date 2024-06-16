@@ -30,7 +30,7 @@
 - Backend Web Developer.
 - Frontend Web Developer.
 
-**Preferred Type:** Full-Time Offline & Remote, Part-time offline & Remote.  
+**Preferred Type:** Full-Time Offline/Remote, Part-time offline/Remote.  
 **Preferred Locations:** Chittagong,Dhaka.
 
 ---
