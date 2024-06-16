@@ -35,7 +35,7 @@
 
 ---
 
-## 🟩Specializations
+## 🟦Specializations
 
 ### 🔷Front-end Web Development
 
@@ -113,7 +113,7 @@
 
 ---
 
-## 🟩Language Proficiency
+## 🟦Language Proficiency
 
 | Language | Reading | Writing | Speaking |
 |----------|---------|---------|----------|
@@ -122,7 +122,7 @@
 
 ---
 
-## 🟩Interests
+## 🟦Interests
 
 - Love to play football.
 - Love to learn new technologies, skills, work, etc.
