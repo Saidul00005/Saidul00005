@@ -2,8 +2,6 @@
 
 **🏙️Address:** Chittagong,Bangladesh.  
 **📧Email:** saidul1000005p@gmail.com  
-**🔗LinkedIn** [https://www.linkedin.com/in/sayadulhoque/](https://www.linkedin.com/in/sayadulhoque/)
-
 
 ---
 
