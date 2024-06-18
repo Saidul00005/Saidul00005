@@ -20,7 +20,7 @@
 
 ### 🔷Front-end Web Development
 
-| **Description**                       | **Details** |
+| **Section**                       | **Details** |
 |---------------------------------------|-------------|
 | **Design Basics**                     | <ul> <li> HTML . </li>  <li> CSS . </li> </ul> |
 | **Design Frameworks & Libraries**     | <ul><li>Bootstrap.</li> <li>Tailwind CSS .</li>  <ul> <li>NextUI Library.</li> <li>Shadcn/ui .</li> </ul> </ul> |
@@ -30,7 +30,7 @@
 
 ### 🔷Back-end Web Development
 
-| **Description**                       | **Details** |
+| **Section**                       | **Details** |
 |---------------------------------------|-------------|
 | **Backend Management Basics**         | Node.js .    |
 | **Backend Management Frameworks**     | <ul> <li> Express.js . </li> <li> Next.js . </li> </ul> |
@@ -40,7 +40,7 @@
 
 ### 🔷Git Version Control System
 
-| **Description**                       | **Details** |
+| **Section**                       | **Details** |
 |---------------------------------------|-------------|
 | **Basics**                            | Git         |
 | **Application**                       | GitHub      |
@@ -48,14 +48,14 @@
 
 ### 🔷Website and Mobile Application Prototype Design
 
-| **Description**                       | **Details** |
+| **Section**                       | **Details** |
 |---------------------------------------|-------------|
 | **Tools**                             | Figma       |
 | **Usage**                             | <ul> <li> Love to use Figma for prototype design of Websites and mobile applications. </li> <li> Have familiarity with advanced use cases of Figma. </li> <li> Love to make simple but functional interactive Figma designs. </li> <li> Love to design for project purposes. </li> </ul> |
 
 ### 🔷Technical Writing
 
-| **Description**                       | **Details** |
+| **Section**                       | **Details** |
 |---------------------------------------|-------------|
 | **SEO-Friendly Content**              | Technical blogs. |
 | **Technical Reports**                 | For software development projects. |
@@ -63,28 +63,28 @@
 
 ### 🔷Project Report Writing
 
-| **Description**                       | **Details** |
+| **Section**                       | **Details** |
 |---------------------------------------|-------------|
 | **Specifications**                    | Software Requirements Specifications (SRS). |
 | **Client Communication**              | Love to work with clients, understand their perspectives, and work with software development team to develop satisfactory software for clients.|
 
 ### 🔷YouTube SEO and Analytics
 
-| **Description**                       | **Details** |
+| **Section**                       | **Details** |
 |---------------------------------------|-------------|
 | **Content Development**               | For YouTube channel. |
 | **SEO Techniques**                    | Understanding YouTube search algorithm for better content creation. |
 
 ### 🔷Presentation Design
 
-| **Description**                       | **Details** |
+| **Section**                       | **Details** |
 |---------------------------------------|-------------|
 | **Presentation Design Tools**                             | <ul> <li> Microsoft PowerPoint. </li> <li> Google Slides. </li> <li> AI-based Presentation Design Tools. </li> <ul> |
 | **Properties of presentation file**                       | <ul> <li> Simple. </li> <li> Specific to topic. </li>  <li> Informative. </li> <li> No Overdesign. </li> <li> Use of diagrams, tables, statistics tables, necessary pictures, videos, and transition effects. |
 
 ### 🔷Experience in Machine Learning
 
-| **Description**                       | **Details** |
+| **Section**                       | **Details** |
 |---------------------------------------|-------------|
 | **Dataset Management Basics**         | NumPy, Pandas |
 | **Mathematical Basics**               | Linear Algebra, Probability and Probability Distribution |
