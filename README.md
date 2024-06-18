@@ -16,46 +16,27 @@
 
 ---
 
-## 💼Career and Application Information
-
-**Preferred Positions:**
-- Web Developer.
-- Software Engineer.
-- Technical Content Researcher and Writer.
-- Lecturer in Related Fields.
-- Project Manager.
-- IT Officer.
-- Programmer.
-- Full-stack Web Developer.
-- Backend Web Developer.
-- Frontend Web Developer.
-
-**Preferred Type:** Full-Time Offline/Remote, Part-time offline/Remote.  
-**Preferred Locations:** Chittagong,Dhaka.
-
----
-
 ## 🟦Specializations
 
 ### 🔷Front-end Web Development
 
 | **Description**                       | **Details** |
 |---------------------------------------|-------------|
-| **Design Basics**                     | HTML & CSS  |
-| **Design Frameworks & Libraries**     | Bootstrap, Tailwind CSS, NextUI Library, Shadcn/ui |
-| **Front-end Management Basics**       | JavaScript  |
-| **Front-end Management Frameworks**   | React, Next.js |
-| **State Management**                  | Zustand     |
+| **Design Basics**                     | <ul> <li> HTML . </li>  <li> CSS . </li> </ul> |
+| **Design Frameworks & Libraries**     | <ul><li>Bootstrap.</li> <li>Tailwind CSS .</li>  <ul> <li>NextUI Library.</li> <li>Shadcn/ui .</li> </ul> </ul> |
+| **Front-end Management Basics**       | JavaScript .  |
+| **Front-end Management Frameworks**   | <ul> <li> React. </li> <ul> <li> Next.js . </li> </ul> </ul>|
+| **State Management**                  | Zustand.     |
 
 ### 🔷Back-end Web Development
 
 | **Description**                       | **Details** |
 |---------------------------------------|-------------|
-| **Backend Management Basics**         | Node.js     |
-| **Backend Management Frameworks**     | Express.js, Next.js |
-| **Database Management Basics**        | JSON        |
-| **Database Modeling & Connection**    | Mongoose, Next.js |
-| **Database Storage Management**       | MongoDB     |
+| **Backend Management Basics**         | Node.js .    |
+| **Backend Management Frameworks**     | <ul> <li> Express.js . </li> <li> Next.js . </li> </ul> |
+| **Database Management Basics**        | JSON .       |
+| **Database Modeling & Connection**    | <ul> <li> Mongoose . </li> <li> Next.js . </li> <ul> |
+| **Database Storage Management**       | MongoDB .    |
 
 ### 🔷Git Version Control System
 
@@ -63,43 +44,43 @@
 |---------------------------------------|-------------|
 | **Basics**                            | Git         |
 | **Application**                       | GitHub      |
-| **Works**                             | Basic Git works, Pull Request, Branch Management, Workflow Management with Git Commits, README.md File Upgradation using Markdown Syntax |
+| **Works**                             | <ul> <li> Basic Git works. </li> <li> Pull Request. </li> <li> Branch Management. </li> <li> Workflow Management with Git Commits. </li> <li> README.md File Upgradation using GitHub flavored Markdown Syntax. </li> </ul> |
 
 ### 🔷Website and Mobile Application Prototype Design
 
 | **Description**                       | **Details** |
 |---------------------------------------|-------------|
 | **Tools**                             | Figma       |
-| **Usage**                             | Prototype design of websites and mobile applications, advanced use cases of Figma, creating simple but functional interactive designs |
+| **Usage**                             | <ul> <li> Love to use Figma for prototype design of Websites and mobile applications. </li> <li> Have familiarity with advanced use cases of Figma. </li> <li> Love to make simple but functional interactive Figma designs. </li> <li> Love to design for project purposes. </li> </ul> |
 
 ### 🔷Technical Writing
 
 | **Description**                       | **Details** |
 |---------------------------------------|-------------|
-| **SEO-Friendly Content**              | Technical blogs |
-| **Technical Reports**                 | For software development projects |
-| **Markdown Files**                    | For project’s README.md file |
+| **SEO-Friendly Content**              | Technical blogs. |
+| **Technical Reports**                 | For software development projects. |
+| **Markdown Files**                    | For project’s README.md file. |
 
 ### 🔷Project Report Writing
 
 | **Description**                       | **Details** |
 |---------------------------------------|-------------|
-| **Specifications**                    | Software Requirements Specifications (SRS) |
-| **Client Communication**              | Understanding perspectives and working with development teams |
+| **Specifications**                    | Software Requirements Specifications (SRS). |
+| **Client Communication**              | Love to work with clients, understand their perspectives, and work with software development team to develop satisfactory software for clients.|
 
 ### 🔷YouTube SEO and Analytics
 
 | **Description**                       | **Details** |
 |---------------------------------------|-------------|
-| **Content Development**               | For YouTube channel |
-| **SEO Techniques**                    | Understanding YouTube search algorithm for better content creation |
+| **Content Development**               | For YouTube channel. |
+| **SEO Techniques**                    | Understanding YouTube search algorithm for better content creation. |
 
 ### 🔷Presentation Design
 
 | **Description**                       | **Details** |
 |---------------------------------------|-------------|
-| **Tools**                             | Microsoft PowerPoint, Google Slides, AI-based Presentation Design Tools |
-| **Properties**                        | Simple, specific, and informative presentations including diagrams, tables, statistics, pictures, videos, and transition effects |
+| **Presentation Design Tools**                             | <ul> <li> Microsoft PowerPoint. </li> <li> Google Slides. </li> <li> AI-based Presentation Design Tools. </li> <ul> |
+| **Properties of presentation file**                       | <ul> <li> Simple. </li> <li> Specific to topic. </li>  <li> Informative. </li> <li> No Overdesign. </li> <li> Use of diagrams, tables, statistics tables, necessary pictures, videos, and transition effects. |
 
 ### 🔷Experience in Machine Learning
 
