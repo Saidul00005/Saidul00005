@@ -35,7 +35,7 @@
 | **Backend Management Basics**         | Node.js .    |
 | **Backend Management Frameworks**     | <ul> <li> Express.js . </li> <li> Next.js . </li> </ul> |
 | **Database Management Basics**        | JSON .       |
-| **Database Modeling & Connection**    | <ul> <li> Mongoose . </li> <li> Next.js . </li> <ul> |
+| **Database Modeling & Connection**    | <ul> <li> Mongoose . </li> <li> Next.js . </li> </ul> |
 | **Database Storage Management**       | MongoDB .    |
 
 ### 🔷Git Version Control System
@@ -79,8 +79,8 @@
 
 | **Section**                       | **Details** |
 |---------------------------------------|-------------|
-| **Presentation Design Tools**                             | <ul> <li> Microsoft PowerPoint. </li> <li> Google Slides. </li> <li> AI-based Presentation Design Tools. </li> <ul> |
-| **Properties of presentation file**                       | <ul> <li> Simple. </li> <li> Specific to topic. </li>  <li> Informative. </li> <li> No Overdesign. </li> <li> Use of diagrams, tables, statistics tables, necessary pictures, videos, and transition effects. |
+| **Presentation Design Tools**                             | <ul> <li> Microsoft PowerPoint. </li> <li> Google Slides. </li> <li> AI-based Presentation Design Tools. </li> </ul> |
+| **Properties of presentation file**                       | <ul> <li> Simple. </li> <li> Specific to topic. </li>  <li> Informative. </li> <li> No Overdesign. </li> <li> Use of diagrams, tables, statistics tables, necessary pictures, videos, and transition effects.</li> <ul> |
 
 ### 🔷Experience in Machine Learning
 
