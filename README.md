@@ -5,25 +5,20 @@
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Saidul00005">
-          <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.linkedin.com/in/sayadulhoque/">
-          <img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">
-        </a>
-      </td>
-      <td>
-        <a href="mailto:saidul1000005p@gmail.com">
-          <img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p>
+<!--   &nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" />
+  </a>  
+  &nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" />
+  </a>   -->
+  &nbsp; <a href="https://www.linkedin.com/in/sayadulhoque/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
+  </a>
+  &nbsp; <a href="mailto:saidul1000005p@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" />
+  </a>
+</p>
 </div>
 
 ---
