@@ -3,6 +3,9 @@
 **🏙️Address:** Chittagong,Bangladesh.  
 **📧Email:** saidul1000005p@gmail.com  
 
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Saidul00005) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/sayadulhoque/) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](mailto:saidul1000005p@gmail.com)
+|---|---|---|
+
 ---
 
 ## 🎓Academic Qualifications
@@ -16,7 +19,7 @@
 
 ---
 
-## 🟦Specializations
+## 🟦Technology Stack
 
 ### 🔷Front-end Web Development
 
@@ -26,7 +29,7 @@
 | **Design Frameworks & Libraries**     | <ul><li>Bootstrap.</li> <li>Tailwind CSS .</li>  <ul> <li>NextUI Library.</li> <li>Shadcn/ui .</li> </ul> </ul> |
 | **Front-end Management Basics**       | JavaScript .  |
 | **Front-end Management Frameworks**   | <ul> <li> React. </li> <ul> <li> Next.js . </li> </ul> </ul>|
-| **State Management**                  | Zustand.     |
+| **State Management**                  | <ul> <li>React Context API. </li> <li> Redux toolkit. </li> </ul>|
 
 ### 🔷Back-end Web Development
 
@@ -91,6 +94,23 @@
 | **Machine Learning Model Basics**     | Activation Functions, Loss Functions, Regularization Techniques, Training Process |
 | **Simple Neural Networks**            | Logistic Regression, Decision Tree Classifier, Naïve Bayes, Support Vector Machine |
 | **Deep Neural Networks**              | Bidirectional LSTM, Transfer Learning (BERT) |
+
+---
+
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Saidul00005}/count.svg" alt="Saidul00005 :: Visitor's Count" /></p>
+
+<h4 align="center">Top languages:</h4>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidul00005&langs_count=10&theme=tokyonight&layout=compact" alt="Saidul00005 :: Top Langs" />
+</p>
+
+<h4 align="center">Profile stats:</h4>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saidul00005&show_icons=true&theme=synthwave" alt="Saidul00005 :: Profile Stats" />
+</p>
 
 ---
 
