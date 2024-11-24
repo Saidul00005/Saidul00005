@@ -1,3 +1,6 @@
+<h5 align="center">Visitor's count:</h5>
+<p align="center"><img src="https://profile-counter.glitch.me/{Saidul00005}/count.svg" alt="Saidul00005 :: Visitor's Count" /></p>
+
 <div align="center">
   <h1>Mohammad Sayadul Hoque</h1>
   <p><strong>🏙️Address:</strong> Chittagong, Bangladesh.</p>
@@ -316,8 +319,6 @@
 
 
 <h4 align="center">Github stats :bar_chart:</h4>
-<h5 align="center">Visitor's count:</h5>
-<p align="center"><img src="https://profile-counter.glitch.me/{Saidul00005}/count.svg" alt="Saidul00005 :: Visitor's Count" /></p>
 
 <h5 align="center">Top languages:</h5>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidul00005&langs_count=10&theme=tokyonight&layout=compact" alt="Saidul00005 :: Top Langs" /></p>
