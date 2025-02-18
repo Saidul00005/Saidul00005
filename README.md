@@ -116,8 +116,12 @@
     </tr>
     <tr>
       <td><b>Backend Management Basics</b></td>
-      <td>Node.js</td>
-      <td>Python</td>
+      <td>
+         <ul>
+          <li>Node.js</li>
+          <li>Python</li>
+        </ul>
+       </td>
     </tr>
     <tr>
       <td><b>Backend Management Frameworks</b></td>
@@ -140,8 +144,12 @@
     </tr>
     <tr>
       <td><b>Database Modeling & Connection</b></td>
-      <td>Mongoose</td>
-      <td>Django ORM</td>
+      <td>
+         <ul>
+          <li>Mongoose</li>
+          <li>Django ORM</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><b>Database Storage Management</b></td>
