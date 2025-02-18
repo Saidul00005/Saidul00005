@@ -75,7 +75,7 @@
           <li>Bootstrap</li>
           <li>Tailwind CSS</li>
           <ul>
-            <li>NextUI Library</li>
+            <li>HeroUI Library</li>
             <li>Shadcn/UI</li>
           </ul>
         </ul>
@@ -117,6 +117,7 @@
     <tr>
       <td><b>Backend Management Basics</b></td>
       <td>Node.js</td>
+      <td>Python</td>
     </tr>
     <tr>
       <td><b>Backend Management Frameworks</b></td>
@@ -124,6 +125,7 @@
         <ul>
           <li>Express.js</li>
           <li>Next.js</li>
+          <li>Python Django</li>
         </ul>
       </td>
     </tr>
@@ -139,6 +141,7 @@
     <tr>
       <td><b>Database Modeling & Connection</b></td>
       <td>Mongoose</td>
+      <td>Django ORM</td>
     </tr>
     <tr>
       <td><b>Database Storage Management</b></td>
@@ -170,6 +173,7 @@
     <td>
       <ul>
         <li>Basic Git works.</li>
+        <li>Issue management.</li>
         <li>Pull Request.</li>
         <li>Branch Management.</li>
         <li>Workflow Management with Git Commits.</li>
