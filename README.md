@@ -1,5 +1,7 @@
 <h5 align="center">Visitor's count:</h5>
-<p align="center"><img src="https://profile-counter.glitch.me/{Saidul00005}/count.svg" alt="Saidul00005 :: Visitor's Count" /></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Saidul00005/count.svg" alt="Saidul00005 :: Visitor's Count" />
+</p>
 
 <div align="center">
   <h1>Mohammad Sayadul Hoque</h1>
@@ -102,6 +104,7 @@
         <ul>
           <li>React Context API</li>
           <li>Redux Toolkit</li>
+          <li>Zustand</li>
         </ul>
       </td>
     </tr>
@@ -129,7 +132,7 @@
         <ul>
           <li>Express.js</li>
           <li>Next.js</li>
-          <li>Python Django</li>
+          <li>Django and Django Rest Framework</li>
         </ul>
       </td>
     </tr>
@@ -156,6 +159,7 @@
       <td>
         <ul>
           <li>MongoDB</li>
+          <li>MySQL</li>
           <li>PostgreSQL</li>
         </ul>
       </td>
