@@ -1,8 +1,3 @@
-<h5 align="center">Visitor's count:</h5>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Saidul00005/count.svg" alt="Saidul00005 :: Visitor's Count" />
-</p>
-
 <div align="center">
   <h1>Mohammad Sayadul Hoque</h1>
   <p><strong>🏙️Address:</strong> Chittagong, Bangladesh.</p>
