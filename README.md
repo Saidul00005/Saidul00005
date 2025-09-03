@@ -91,6 +91,12 @@
             <li>Next.js</li>
           </ul>
         </ul>
+         <ul>
+          <li>Svelte</li>
+          <ul>
+            <li>SvelteKit</li>
+          </ul>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -118,6 +124,7 @@
          <ul>
           <li>Node.js</li>
           <li>Python</li>
+          <li>PHP</li>
         </ul>
        </td>
     </tr>
@@ -128,6 +135,7 @@
           <li>Express.js</li>
           <li>Next.js</li>
           <li>Django and Django Rest Framework</li>
+          <li>Laravel</li>
         </ul>
       </td>
     </tr>
