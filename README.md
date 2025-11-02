@@ -337,17 +337,6 @@
 
 ---
 
-
-<h4 align="center">Github stats :bar_chart:</h4>
-
-<h5 align="center">Top languages:</h5>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidul00005&langs_count=10&theme=tokyonight&layout=compact" alt="Saidul00005 :: Top Langs" /></p>
-
-<h5 align="center">Profile stats:</h5>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saidul00005&show_icons=true&theme=synthwave" alt="Saidul00005 :: Profile Stats" /></p>
-
----
-
 <div align="center">
   <h4>Language Proficiency 🗣️</h4>
   <table>
